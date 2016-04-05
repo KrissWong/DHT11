@@ -1,3 +1,3 @@
-DHT11 �ŷë׷P��
+DHT11 溫溼度感測器
 
-webduino_DHT11.js�G�ū׷P��
+webduino_DHT11.js 溫度感測
